@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 ![Header](./github-header.png)
 <!--
 **destinytc/destinytc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Check out some of the projects I've worked on by clicking any of the repositories below. Thanks for stopping by!
